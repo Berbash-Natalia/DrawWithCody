@@ -7,7 +7,6 @@ WIDTH = 400
 HEIGHT = 400
 
 cody = Actor('cody')
-coin = Actor('coin')
 cody.x=200
 cody.y=200
 coin.x = randint(10, 400)
